@@ -1,0 +1,7 @@
+C:\Users\Raul\Documents\encryptiontest\encryptiontest\bin\Debug\encryptiontest.exe.config
+C:\Users\Raul\Documents\encryptiontest\encryptiontest\bin\Debug\encryptiontest.exe
+C:\Users\Raul\Documents\encryptiontest\encryptiontest\bin\Debug\encryptiontest.pdb
+C:\Users\Raul\Documents\encryptiontest\encryptiontest\obj\Debug\encryptiontest.csproj.AssemblyReference.cache
+C:\Users\Raul\Documents\encryptiontest\encryptiontest\obj\Debug\encryptiontest.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\encryptiontest\encryptiontest\obj\Debug\encryptiontest.exe
+C:\Users\Raul\Documents\encryptiontest\encryptiontest\obj\Debug\encryptiontest.pdb
